@@ -15,8 +15,11 @@ main:
   #- title: "Blog Posts"
   #  url: /year-archive/
     
+  - title: "Civil Experience" 
+    url: /civil/           #url: /_pages/civil.md
+
   - title: "CV(TBD)"
-    url: /cv/
+    url: /files/Resume.pdf
     
   #- title: "Guide"
   #  url: /markdown/
