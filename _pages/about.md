@@ -7,14 +7,56 @@ redirect_from:
   - /about.html
 ---
 
-I’m a final year graduate student at the University Of Queensland.
+I’m a final year graduate student in Information Technology at the University Of Queensland (UQ). 
 
-I like to communicate with different people; it's like experiencing other lives. 
+❤️ My interests lie in Virtual Reality (VR), User Experience (UX) Design, Front End Development. 
 
-Section A
+👨‍🏭 I received my B.Eng. Degree in Civil Engineering at University of Nottingham Ningbo China (UNNC).
+
+📧 Communicating with different people is enjoyable for me; as it feels like experiencing the lives of others.
+
+I have some research and coursework experience in both Information Technology and Civil Engineering.
+
+<!--
+Master of Information Technology 
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate 
+-->
 
+IT Research Experience
+------
+Thesis: Virtual Reality application design for computer science education 
+
+IT Project Experience
+------
+Mini Fruit Ninja
+
+Construction Company Official Website
+
+GUI-based 2048
+
+<!--
+Bachelor of Civil Engineering  
+======
+-->
+
+<!-- Civil Research Experience
+------
+Mobility as a Service (MaaS)
+
+Soil stabilization and numerical simulation
+
+Fiber motar and reinforced concrete
+
+Civil Project Experience
+------
+Building Information Modeling (BIM) Concrete Design 
+
+Structural Steel Design 
+
+Railway Bridge Design   -->
+
+
+<!--
 Section B
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
@@ -33,6 +75,4 @@ Section B.2
 For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). 
 
 Section B.2.1
-
-I have also created
-
+-->
