@@ -9,14 +9,17 @@ main:
   #- title: "Teaching"
   #  url: /teaching/    
     
-  - title: "Portfolio(TBD)"
+  - title: "IT Portfolio"
     url: /portfolio/
         
   #- title: "Blog Posts"
   #  url: /year-archive/
     
-  - title: "CV(TBD)"
-    url: /cv/
+  - title: "Civil Experience" 
+    url: /civil/           #url: /_pages/civil.md
+
+  - title: "CV"
+    url: /files/Resume.pdf
     
   #- title: "Guide"
   #  url: /markdown/
