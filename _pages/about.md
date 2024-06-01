@@ -28,6 +28,8 @@ Thesis: Virtual Reality application design for computer science education
 
 IT Project Experience
 ------
+Global Emissions and Energy: Visualization
+
 Mini Fruit Ninja
 
 Construction Company Official Website
